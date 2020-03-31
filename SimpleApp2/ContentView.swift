@@ -10,7 +10,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Life is pain and this is stoopid :(")
+        
+        Text("Life is pain and this is stoopid :( and ELR keeps messing the branches up");
     }
 }
 
